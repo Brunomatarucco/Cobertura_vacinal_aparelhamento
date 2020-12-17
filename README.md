@@ -1,4 +1,4 @@
-# Cobertura_vacinal_aparelhamento
+# Cobertura Vacinal e a sua relação com a estrutura do sistema de saúde
 
 Com esse trabalho, meu objetivo é testar se existe um modelo de aparelhamento estrutural para a excêlencia da cobertura apropriada de imunização. Caso comprovada essa relação entre a estrutura e as metas vacinais, a proposta é criar um modelo de Machine Learning para avaliar o que faltaria para cada municipio contratar ou construir para obter o resultado vacinal ideal.
 
